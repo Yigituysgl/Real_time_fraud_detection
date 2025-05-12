@@ -28,7 +28,7 @@ Model Performance (Compared)
 
 > Random Forest was selected for deployment based on best F1-score and balanced fraud detection performance.
 >
-> Future Work (Optional)
+> Future Work 
 
 - Deploy also on Hugging Face Spaces
 - Add email alert
